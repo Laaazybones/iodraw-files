@@ -291,8 +291,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-5" value="对账表编制" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1316" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-11" value="中期工作-实施&lt;span style=&quot;background-color: initial;&quot;&gt;阶段&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="-324" width="120" height="60" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-11" value="后期工作-回款、入账、归档" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1673" y="-334" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
