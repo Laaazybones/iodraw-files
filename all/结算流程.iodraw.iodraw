@@ -333,8 +333,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-25" value="按半年结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="209" y="-129" width="50" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-26" value="按半年结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="219" y="-119" width="50" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-26" value="按&lt;span style=&quot;background-color: initial;&quot;&gt;年结算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-129" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
