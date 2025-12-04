@@ -378,8 +378,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-39" value="是否有特殊规则" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="765" y="-148" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-41" value="确定特殊规则" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="-90" width="102" height="38" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-41" value="正常规则" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-43" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
