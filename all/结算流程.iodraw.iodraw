@@ -265,10 +265,10 @@
           <mxGeometry x="490" y="-150" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-1" value="中期工作-实施&lt;span style=&quot;background-color: initial;&quot;&gt;阶段&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="-334" width="120" height="60" as="geometry" />
+          <mxGeometry x="1007" y="-334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-2" value="确定结算规则" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="873" y="-224" width="102" height="38" as="geometry" />
+          <mxGeometry x="875" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
