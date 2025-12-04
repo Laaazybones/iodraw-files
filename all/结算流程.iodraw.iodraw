@@ -324,8 +324,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-19" value="异常结算处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1948" y="-334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-23" value="确定结算周期" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-218" width="102" height="38" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-23" value="按月结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-129" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
