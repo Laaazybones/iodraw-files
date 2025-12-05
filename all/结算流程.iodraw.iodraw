@@ -836,6 +836,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-289" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3890.5" y="127.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-290" target="AmoOnpM2ovvcmC9XJIjk-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-290" value="同步信息给商务同事" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4034.5" y="81.75" width="85" height="31" as="geometry" />
         </mxCell>
@@ -854,7 +857,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-296" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4136" y="67.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-298" value="同步信息给商务同事" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-298" value="签署补充协议" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4034.5" y="297" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
