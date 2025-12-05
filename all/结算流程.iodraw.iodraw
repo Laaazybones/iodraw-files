@@ -282,8 +282,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-97" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="951" y="154" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-98" value="是否存在&lt;div&gt;前置或历史合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="863.5" y="164" width="100" height="60" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-98" value="是否有预授信额度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="154" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
