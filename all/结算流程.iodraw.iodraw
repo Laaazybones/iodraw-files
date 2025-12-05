@@ -205,8 +205,14 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-63" value="充电服务费+电费&lt;div&gt;按比例分成开票催款&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="75" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-69" target="AmoOnpM2ovvcmC9XJIjk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-69" value="是否开发票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="571.5" y="60.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-71" value="收票付款流程" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="579" y="172" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
