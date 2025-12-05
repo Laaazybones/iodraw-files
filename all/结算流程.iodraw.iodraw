@@ -561,7 +561,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-192" value="小程序验证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2275.5" y="339.25" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-195" value="确认当期国网&lt;br&gt;四川供电局电价、&lt;br&gt;峰平谷时段" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-195" value="充电电价确认与更新" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2275.5" y="-108" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
