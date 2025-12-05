@@ -82,6 +82,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-2" target="AmoOnpM2ovvcmC9XJIjk-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-2" target="AmoOnpM2ovvcmC9XJIjk-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-2" value="原始数据准备" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2392" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
@@ -572,6 +575,9 @@
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-198" value="充电数据准备" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2534" y="-98" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-200" value="是否属于公交场站" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2526.5" y="-19" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
