@@ -88,6 +88,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-2" value="原始数据准备" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2392" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-3" target="AmoOnpM2ovvcmC9XJIjk-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-3" value="项目信息确认" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4026" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
@@ -791,7 +794,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-274" value="确认当期充电电量" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="3704" y="141" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-277" value="安排抄表员线下抄表" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-277" value="合同信息确认" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4034.5" y="-95" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
