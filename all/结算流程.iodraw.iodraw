@@ -821,8 +821,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-282" value="合同是否在有效期内" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="3915.5" y="67.25" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-287" value="合同有效期" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3933" y="4" width="85" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-287" value="正常实施结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3923" y="166" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
