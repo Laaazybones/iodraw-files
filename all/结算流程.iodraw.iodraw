@@ -582,8 +582,10 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200" target="AmoOnpM2ovvcmC9XJIjk-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200" target="AmoOnpM2ovvcmC9XJIjk-222">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2846.5" y="227" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200" target="AmoOnpM2ovvcmC9XJIjk-224">
           <mxGeometry relative="1" as="geometry" />
@@ -647,9 +649,6 @@
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-221" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2477" y="457.75" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-222" value="获取公交营运公司&lt;br&gt;车辆调度信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2804" y="227" width="85" height="31" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-223" value="修改订单数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2804" y="304" width="85" height="31" as="geometry" />
