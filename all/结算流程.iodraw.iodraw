@@ -250,8 +250,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-84" value="获取合同文件" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="861" y="72" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-85" value="是否开发票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="581.5" y="70.5" width="100" height="60" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-85" value="是否存在&lt;div&gt;前置或历史合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="853.5" y="154" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
