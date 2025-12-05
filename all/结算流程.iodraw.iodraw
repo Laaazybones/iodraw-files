@@ -774,7 +774,10 @@
           <mxGeometry x="3704" y="-4.5" width="85" height="31" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-270" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3332" y="-9" width="60" height="30" as="geometry" />
+          <mxGeometry x="3644" y="-18.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-271" value="安排抄表员线下抄表" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3704" y="68.5" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
