@@ -79,6 +79,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-1" value="中期工作-实施&lt;span style=&quot;background-color: initial;&quot;&gt;阶段&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2612" y="-334" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-2" target="AmoOnpM2ovvcmC9XJIjk-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-2" value="原始数据准备" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2392" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
@@ -518,9 +521,6 @@
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-177" value="更新当期各项目&lt;br&gt;《电价策略台账》" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2400.5" y="-87" width="85" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-178" value="更新各项目&lt;br&gt;平台充电电价计费策略、&lt;br&gt;峰平谷时段" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2231" y="-87" width="85" height="31" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-179" value="更新各项目平台充电电价、峰平谷时段" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2400.5" y="-19" width="85" height="31" as="geometry" />
