@@ -480,6 +480,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-161" value="生成支付凭证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1488.5" y="389" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-164" value="归档" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=11;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1488" y="465" width="86" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
