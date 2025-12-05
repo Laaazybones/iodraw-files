@@ -346,8 +346,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-120" value="收取充电电费" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1654" y="123" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-121" value="收取充电电费" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1664" y="133" width="85" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-121" value="收取生产用电电费" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1778" y="123" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
