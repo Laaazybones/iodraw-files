@@ -600,6 +600,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-204" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2570" y="48.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-205" target="AmoOnpM2ovvcmC9XJIjk-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-205" value="购电电价测算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2534" y="178.25" width="85" height="31" as="geometry" />
         </mxCell>
@@ -609,8 +612,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-209" value="确认各公交场站&lt;br&gt;峰平谷电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2414" y="96.25" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-211" value="购电电价测算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2544" y="188.25" width="85" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-211" value="确认当期公交结算电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2534" y="260.25" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
