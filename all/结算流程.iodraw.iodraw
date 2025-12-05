@@ -145,7 +145,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-39" target="AmoOnpM2ovvcmC9XJIjk-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-39">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-39" target="AmoOnpM2ovvcmC9XJIjk-111">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1447" y="-117" as="targetPoint" />
           </mxGeometry>
@@ -317,8 +317,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-110" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="873.5" y="-147" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-111" value="是否有预授信额度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="164" width="100" height="60" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-111" value="是否属于公交&lt;div&gt;或大客户结算&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="-147" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
