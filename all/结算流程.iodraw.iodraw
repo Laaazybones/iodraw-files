@@ -507,6 +507,12 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-171" value="归档" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=11;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1813.5" y="390" width="86" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-174" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="-81" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-175" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1589" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
