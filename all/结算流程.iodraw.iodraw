@@ -588,6 +588,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200" target="AmoOnpM2ovvcmC9XJIjk-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-200" target="AmoOnpM2ovvcmC9XJIjk-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-200" value="是否属于公交场站" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2526.5" y="-19" width="100" height="60" as="geometry" />
         </mxCell>
@@ -708,7 +711,7 @@
           <mxGeometry x="3062" y="418" width="85" height="31" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-245" value="是否属于代营项目" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3300" y="-28" width="100" height="60" as="geometry" />
+          <mxGeometry x="3304" y="-19" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
