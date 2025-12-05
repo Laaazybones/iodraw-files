@@ -762,7 +762,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-263" value="是否根据平台电量&lt;br&gt;据实结算" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="3638" y="-19" width="100" height="60" as="geometry" />
+          <mxGeometry x="3552" y="-19" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-267" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3592" y="39" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
