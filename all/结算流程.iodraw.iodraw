@@ -689,8 +689,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-234" value="确认当期电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2534" y="641" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-239" value="下载平台当期充电数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2843" y="236.5" width="85" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-239" value="统计上一期充电数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3062" y="227" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
