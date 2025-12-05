@@ -297,6 +297,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-101" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1053" y="227" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-102" target="AmoOnpM2ovvcmC9XJIjk-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-102" value="收取预存款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1177" y="168.5" width="85" height="31" as="geometry" />
         </mxCell>
@@ -305,6 +308,9 @@
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-105" value="开预存款发票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1177" y="269" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-107" value="开预存款发票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1177" y="354" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
