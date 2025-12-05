@@ -259,8 +259,10 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-85" target="AmoOnpM2ovvcmC9XJIjk-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-85" target="AmoOnpM2ovvcmC9XJIjk-95">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1018" y="184" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-85" value="是否存在&lt;div&gt;前置或历史合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="853.5" y="154" width="100" height="60" as="geometry" />
@@ -277,11 +279,11 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-93" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="891" y="227" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-95" value="获取历史合同" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="168.5" width="85" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-97" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="951" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-98" value="是否存在&lt;div&gt;前置或历史合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="863.5" y="164" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
