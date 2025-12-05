@@ -651,6 +651,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-221" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2477" y="457.75" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-223" target="AmoOnpM2ovvcmC9XJIjk-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-223" value="修改订单数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2833" y="418" width="85" height="31" as="geometry" />
         </mxCell>
