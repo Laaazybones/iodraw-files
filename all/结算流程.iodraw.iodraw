@@ -294,7 +294,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-101" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1053" y="227" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-102" value="按预授信额度&lt;div&gt;进行平台充值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-102" value="收取预存款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1177" y="168.5" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
