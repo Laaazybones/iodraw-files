@@ -633,6 +633,9 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-214" value="测算电价&amp;lt;供电局电价" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2526.5" y="454.75" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-216" target="AmoOnpM2ovvcmC9XJIjk-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-216" value="当期公交结算&lt;br&gt;使用测算电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="2534" y="560.75" width="85" height="31" as="geometry" />
         </mxCell>
@@ -672,8 +675,8 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-233" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2922" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-234" value="当期公交结算&lt;br&gt;使用测算电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2544" y="570.75" width="85" height="31" as="geometry" />
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-234" value="确认当期电价" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2534" y="641" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
