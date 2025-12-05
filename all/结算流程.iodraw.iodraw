@@ -317,11 +317,11 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-110" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="873.5" y="-147" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AmoOnpM2ovvcmC9XJIjk-111" value="是否属于公交&lt;div&gt;或大客户结算&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="AmoOnpM2ovvcmC9XJIjk-111" value="是否属于&lt;br&gt;公交&lt;span style=&quot;background-color: initial;&quot;&gt;结算&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="1481" y="-147" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-112" value="收取预存款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1187" y="178.5" width="85" height="31" as="geometry" />
+          <mxGeometry x="1488.5" y="-31" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
