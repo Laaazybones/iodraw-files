@@ -1420,7 +1420,7 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-181" value="交予财务人员付款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="7192" y="446" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-184" value="交予财务人员付款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-184" value="获取付款电子凭证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="7192" y="550" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
