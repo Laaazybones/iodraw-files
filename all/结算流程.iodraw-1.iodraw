@@ -1453,8 +1453,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-193" value="是否预存款项目" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="7595" y="-211" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-195" value="是否预存款项目" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="7605" y="-201" width="100" height="60" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-195" value="是否要求开据实消费发票" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7595" y="-55" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
