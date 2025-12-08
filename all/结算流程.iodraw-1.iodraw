@@ -938,7 +938,7 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-19" value="分场站统计电量、&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务费&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4842" y="490" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-22" value="分场站统计电量、&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务费&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-22" value="分场站统计服务费&lt;div&gt;分成&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4842" y="575" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
