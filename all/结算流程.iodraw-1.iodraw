@@ -1085,6 +1085,9 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-67" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5452" y="419" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-68" target="BVE4jPWaFRTO-arrgFv8-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-68" value="查询合同规定的&lt;div&gt;数据处理规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="476.5" width="85" height="31" as="geometry" />
         </mxCell>
@@ -1094,7 +1097,7 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-69" value="是否是大客户结算" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5952" y="358" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-72" value="查询合同规定的&lt;div&gt;数据处理规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-72" value="统计当期充电量" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="583" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
