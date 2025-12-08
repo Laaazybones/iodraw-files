@@ -1346,7 +1346,7 @@
           <mxGeometry x="7020" y="-151" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-156" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6707" y="-63.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="7080" y="-228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-158" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7024" y="283.5" width="60" height="30" as="geometry" />
@@ -1365,6 +1365,9 @@
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-162" value="催款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6974" y="769" width="102" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-163" target="BVE4jPWaFRTO-arrgFv8-164">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-163" value="收款后下载回款电子凭证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="873" width="102" height="38" as="geometry" />
