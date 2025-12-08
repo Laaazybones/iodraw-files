@@ -1369,7 +1369,7 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-162" value="催款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6974" y="769" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-163">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-163" target="BVE4jPWaFRTO-arrgFv8-204">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="7025" y="977" as="targetPoint" />
           </mxGeometry>
@@ -1483,7 +1483,10 @@
           <mxGeometry x="7640" y="-151" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-204" value="归档" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="6982" y="979" width="84" height="42" as="geometry" />
+          <mxGeometry x="6983" y="983" width="84" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-205" value="归档" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="7421" y="825.5" width="84" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
