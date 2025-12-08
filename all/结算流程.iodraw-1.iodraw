@@ -114,7 +114,7 @@
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AmoOnpM2ovvcmC9XJIjk-11" target="AmoOnpM2ovvcmC9XJIjk-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-11" target="BVE4jPWaFRTO-arrgFv8-128">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-222" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AmoOnpM2ovvcmC9XJIjk-11" target="BVE4jPWaFRTO-arrgFv8-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-11" value="后期工作-开票回款、收票付款、归档" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
@@ -1515,8 +1515,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-220" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7290" y="-64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-221" value="编制开票申请单" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="7049" y="-212" width="102" height="38" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-221" value="获取当期结算资料" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6978" y="-190" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
