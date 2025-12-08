@@ -1269,9 +1269,6 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-131" value="开票申请单签字" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6974" y="11" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-132" value="对账表编制" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5961" y="-218" width="102" height="38" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
