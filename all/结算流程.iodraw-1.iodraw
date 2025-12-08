@@ -1237,11 +1237,20 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-115" value="是否是新项目" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5952" y="-117" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-117" target="BVE4jPWaFRTO-arrgFv8-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-117" value="获取合同项目相关信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="-6" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-118" target="BVE4jPWaFRTO-arrgFv8-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-118" value="制作对账表单" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="78.5" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-119" target="BVE4jPWaFRTO-arrgFv8-120">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-119" value="填写当期结算数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="163.75" width="85" height="31" as="geometry" />
