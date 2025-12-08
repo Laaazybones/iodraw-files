@@ -874,8 +874,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-3" value="数据去重" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4498" y="-35.5" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-4" value="开票信息是否变更" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4202.5" y="77.25" width="100" height="60" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-4" value="是否检查出异常订单" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4732" y="-60" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
