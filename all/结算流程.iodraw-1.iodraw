@@ -976,8 +976,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-33" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4775" y="813" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-34" value="公交资产结算电量&lt;div&gt;是否与公交联程&lt;/div&gt;&lt;div&gt;结算电量匹配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="4742" y="763" width="100" height="60" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-34" value="是否属于&lt;div&gt;尾差且误差&lt;/div&gt;&lt;div&gt;在允许范围内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4939" y="753" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
