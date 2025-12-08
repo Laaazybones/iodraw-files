@@ -1381,6 +1381,9 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-168" target="BVE4jPWaFRTO-arrgFv8-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-168" target="BVE4jPWaFRTO-arrgFv8-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-168" value="是否收票付款项目" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="7193" y="-211" width="100" height="60" as="geometry" />
         </mxCell>
