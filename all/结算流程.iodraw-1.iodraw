@@ -1343,8 +1343,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-158" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7024" y="283.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-159" value="发票红冲说明签字" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="6983" y="566" width="102" height="38" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-159" value="发送发票给对方" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6974" y="665" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
