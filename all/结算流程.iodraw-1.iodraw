@@ -1373,7 +1373,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-163" value="收款后下载回款电子凭证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="6973" y="873" width="102" height="38" as="geometry" />
+          <mxGeometry x="6974" y="873" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-164" value="归档" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="977" width="102" height="38" as="geometry" />
