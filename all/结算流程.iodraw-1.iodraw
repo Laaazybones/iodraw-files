@@ -1497,8 +1497,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-212" value="获取异常信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="8327" y="-202" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-213" value="获取异常信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="8337" y="-192" width="102" height="38" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-213" value="重新进行数据处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="8327" y="-93" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
