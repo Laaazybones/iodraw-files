@@ -1127,6 +1127,9 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-81" value="数据处理完毕" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5959.5" y="887" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-83" value="按优惠价计算&lt;div&gt;当期结算金额&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6172" y="679.5" width="85" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
