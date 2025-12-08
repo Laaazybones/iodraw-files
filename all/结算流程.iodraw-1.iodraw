@@ -1299,14 +1299,26 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-136" value="对账单用印" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6329.5" y="81.75" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-143" target="BVE4jPWaFRTO-arrgFv8-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-143" value="财务人员开票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="112" width="102" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-145" target="BVE4jPWaFRTO-arrgFv8-147">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-145" value="对账单数据审核" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="342" width="102" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-146" target="BVE4jPWaFRTO-arrgFv8-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-146" value="发票信息及数据&lt;div&gt;是否有误&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6974" y="216" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-147" target="BVE4jPWaFRTO-arrgFv8-148">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-147" value="编制发票红冲说明" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="446" width="102" height="38" as="geometry" />
