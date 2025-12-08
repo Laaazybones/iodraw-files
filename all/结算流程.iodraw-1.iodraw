@@ -932,6 +932,14 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-16" value="是否是公交结算" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4732" y="358" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-18" target="BVE4jPWaFRTO-arrgFv8-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4673" y="631" />
+              <mxPoint x="4782" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-18" value="分营运公司&lt;br&gt;统计电量数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4630" y="490" width="85" height="31" as="geometry" />
         </mxCell>
@@ -940,6 +948,9 @@
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-19" value="分场站统计电量、&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;服务费&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4842" y="490" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-22" target="BVE4jPWaFRTO-arrgFv8-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-22" value="分场站统计服务费&lt;div&gt;分成&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4842" y="575" width="85" height="31" as="geometry" />
