@@ -1272,8 +1272,11 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-133" value="对账表用印" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6321" y="-228" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-134" value="获取合同项目相关信息" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-134" value="编制用印申请单" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6329.5" y="-98" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-135" value="编制用印申请单" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6339.5" y="-88" width="85" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
