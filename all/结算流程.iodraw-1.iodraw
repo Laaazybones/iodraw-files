@@ -1302,8 +1302,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-143" value="财务人员开票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6973" y="112" width="102" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-145" value="财务人员开票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="6973" y="213.25" width="102" height="38" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-145" value="给对方发送发票" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6675" y="81.75" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
