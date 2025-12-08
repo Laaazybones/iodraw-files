@@ -961,7 +961,7 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-25" value="数据汇总、初审" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4739.5" y="656" width="85" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-29" value="是否是公交结算" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-29" value="电量是否" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="4732" y="743" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
