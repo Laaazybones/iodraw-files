@@ -118,7 +118,7 @@
           <mxGeometry x="6964" y="-334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-12" value="开票回款" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="6641" y="-228" width="102" height="38" as="geometry" />
+          <mxGeometry x="6979" y="-98" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="AmoOnpM2ovvcmC9XJIjk-19" value="异常结算处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="7388" y="-334" width="120" height="60" as="geometry" />
