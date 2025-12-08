@@ -1436,7 +1436,7 @@
           <mxGeometry x="7234" y="-27" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-189" value="发票查验" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="7202" y="44" width="102" height="38" as="geometry" />
+          <mxGeometry x="7381" y="-79" width="102" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
