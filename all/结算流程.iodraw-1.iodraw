@@ -1145,6 +1145,9 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-87" value="是否有场站引流协议" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5952" y="985" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-89" value="数据处理完毕" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5970" y="904" width="85" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
