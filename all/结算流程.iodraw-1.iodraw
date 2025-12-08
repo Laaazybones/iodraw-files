@@ -1140,7 +1140,7 @@
           <mxGeometry x="6050" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-87" value="是否满足优惠条件" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5962" y="675" width="100" height="60" as="geometry" />
+          <mxGeometry x="5952" y="985" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
