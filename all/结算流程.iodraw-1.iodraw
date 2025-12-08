@@ -1019,6 +1019,12 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-44" value="查询合同规定的&lt;div&gt;数据处理规则&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="5334.5" y="477" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-46" value="会员结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5183" y="575" width="85" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-47" value="会员结算" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5193" y="585" width="85" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
