@@ -1198,6 +1198,9 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-102" value="计算当期场站充电电量" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6375.5" y="560.75" width="85" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-105" value="计算当期场站充电电量" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6385.5" y="570.75" width="85" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
