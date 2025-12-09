@@ -1377,7 +1377,7 @@
             <mxPoint x="7025" y="1121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-163" value="收款后下载回款电子凭证" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-163" value="收款后联系财务专员&lt;div&gt;下载回款电子凭证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="6974" y="1017" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVE4jPWaFRTO-arrgFv8-168" target="BVE4jPWaFRTO-arrgFv8-171">
@@ -1699,7 +1699,7 @@
           <mxGeometry x="6860" y="917" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-285" value="&amp;nbsp;耗时：不确定&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
-          <mxGeometry x="6870" y="927" width="118" height="30" as="geometry" />
+          <mxGeometry x="6860" y="1021" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
