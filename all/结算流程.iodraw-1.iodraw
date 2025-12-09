@@ -1705,7 +1705,10 @@
           <mxGeometry x="6860" y="1133" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BVE4jPWaFRTO-arrgFv8-287" value="&amp;nbsp;耗时：10min&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
-          <mxGeometry x="6870" y="1143" width="118" height="30" as="geometry" />
+          <mxGeometry x="7293" y="815" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-288" value="&amp;nbsp;耗时：10min&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="7290" y="182" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
