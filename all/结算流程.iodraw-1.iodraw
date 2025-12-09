@@ -1584,8 +1584,11 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-245" value="&amp;nbsp;耗时：2H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="2397.5" y="193" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-246" value="&amp;nbsp;耗时：3H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-246" value="&amp;nbsp;耗时：2H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="2663" y="189" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-247" value="&amp;nbsp;耗时：10min&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="2622" y="399" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
