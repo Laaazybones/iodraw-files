@@ -1593,8 +1593,8 @@
         <mxCell id="BVE4jPWaFRTO-arrgFv8-248" value="&amp;nbsp;耗时：0.5H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="2259" y="373" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BVE4jPWaFRTO-arrgFv8-249" value="&amp;nbsp;耗时：0.5DAY&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
-          <mxGeometry x="3697.5" y="-32" width="118" height="30" as="geometry" />
+        <mxCell id="BVE4jPWaFRTO-arrgFv8-249" value="&amp;nbsp;耗时：0.5H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="4115" y="-94.5" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
