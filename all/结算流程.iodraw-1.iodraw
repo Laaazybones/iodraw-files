@@ -1755,6 +1755,9 @@
         <mxCell id="JNsAFcerTiBI2yJaBawi-2" value="&amp;nbsp;前期准备阶段&lt;br&gt;&amp;nbsp;总耗时：0.5H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="4093" y="-383" width="118" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JNsAFcerTiBI2yJaBawi-3" value="&amp;nbsp;耗时：10min&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="2129" y="-288" width="118" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
