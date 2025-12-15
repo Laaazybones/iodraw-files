@@ -1767,7 +1767,7 @@
         <mxCell id="JNsAFcerTiBI2yJaBawi-7" value="异常处理总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;约1小时（不含人员沟通时间）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="8067" y="-421" width="263" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JNsAFcerTiBI2yJaBawi-8" value="完成一次结算总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;公交：线上操作约需&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;非公交：线上操作约6~7小时（不含签字流程）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+        <mxCell id="JNsAFcerTiBI2yJaBawi-8" value="完成一次结算总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;公交：线上操作约需29~32小时&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;非公交：线上操作约6~7小时（不含签字流程）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="4064" y="-605" width="263" height="98" as="geometry" />
         </mxCell>
       </root>
