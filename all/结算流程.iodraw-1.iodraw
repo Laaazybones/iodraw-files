@@ -1755,7 +1755,7 @@
         <mxCell id="JNsAFcerTiBI2yJaBawi-2" value="&amp;nbsp;前期准备阶段&lt;br&gt;&amp;nbsp;总耗时：0.5H&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="4093" y="-383" width="118" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNsAFcerTiBI2yJaBawi-3" value="&amp;nbsp;原始数据准备总耗时：&lt;br&gt;&amp;nbsp;公交：线上操作约34小时&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+        <mxCell id="JNsAFcerTiBI2yJaBawi-3" value="&amp;nbsp;原始数据准备总耗时：&lt;br&gt;通用准备：&lt;br&gt;&amp;nbsp;公交：线上操作约34小时&amp;nbsp;&lt;br&gt;线下取票约需4天&lt;br&gt;非公交：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="2129" y="-288" width="163" height="30" as="geometry" />
         </mxCell>
       </root>
