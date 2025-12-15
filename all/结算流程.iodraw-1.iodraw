@@ -1758,8 +1758,8 @@
         <mxCell id="JNsAFcerTiBI2yJaBawi-4" value="&amp;nbsp;数据处理总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;公交：线上操作约8小时&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;非公交：线上操作约3~4小时&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
           <mxGeometry x="4854" y="-258" width="163" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="JNsAFcerTiBI2yJaBawi-5" value="中期实施总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;公交：线上操作约24小时（不 含签字流程）&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;非公交：线上操作约3~4小时&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
-          <mxGeometry x="4064" y="-443" width="163" height="98" as="geometry" />
+        <mxCell id="JNsAFcerTiBI2yJaBawi-5" value="中期实施总耗时：&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;公交：线上操作约24小时（不含签字流程）&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 线下操作约&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp;非公交：线上操作约3~4小时&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;textShadow=1;labelBackgroundColor=#C4C4C4;" vertex="1" parent="1">
+          <mxGeometry x="4064" y="-443" width="263" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
