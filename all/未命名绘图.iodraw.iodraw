@@ -102,8 +102,11 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-24" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="OPFFP_eKOEmLH2BmBSAd-43" value="下发指令/&lt;div&gt;监测状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-43" value="响应指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="513" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-44" value="响应指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="523" width="68" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
