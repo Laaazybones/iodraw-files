@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="aTR03Hiu4Mpz0rdc2DXz">
-    <mxGraphModel dx="900" dy="249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
           <mxGeometry x="482" y="200" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-12" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="598" y="273" width="45" height="51" as="geometry" />
+          <mxGeometry x="598" y="269" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-13" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="146" width="45" height="51" as="geometry" />
