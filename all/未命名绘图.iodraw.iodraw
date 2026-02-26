@@ -16,7 +16,7 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-4" value="边缘终端层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="180" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="OPFFP_eKOEmLH2BmBSAd-5" value="边缘终端层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-5" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="435" width="64" height="65" as="geometry" />
         </mxCell>
       </root>
