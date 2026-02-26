@@ -39,11 +39,23 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-8" value="电网调度指令/电价信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="152" width="82" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-9" target="OPFFP_eKOEmLH2BmBSAd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-9" target="OPFFP_eKOEmLH2BmBSAd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-9" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="452" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-11" value="充放电功率指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="275" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-12" target="OPFFP_eKOEmLH2BmBSAd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-12" target="OPFFP_eKOEmLH2BmBSAd-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-12" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408.5" y="455" width="45" height="51" as="geometry" />
