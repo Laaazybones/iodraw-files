@@ -22,13 +22,8 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-4" target="OPFFP_eKOEmLH2BmBSAd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OPFFP_eKOEmLH2BmBSAd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-4" target="OPFFP_eKOEmLH2BmBSAd-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="416" />
-              <mxPoint x="431" y="416" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-4" target="OPFFP_eKOEmLH2BmBSAd-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-4" value="边缘终端层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="180" height="55" as="geometry" />
@@ -57,8 +52,11 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-12" target="OPFFP_eKOEmLH2BmBSAd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-12" target="OPFFP_eKOEmLH2BmBSAd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-12" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="455" width="45" height="51" as="geometry" />
+          <mxGeometry x="466" y="458" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OPFFP_eKOEmLH2BmBSAd-13" target="OPFFP_eKOEmLH2BmBSAd-18">
           <mxGeometry relative="1" as="geometry" />
