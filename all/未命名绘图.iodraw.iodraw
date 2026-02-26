@@ -26,7 +26,10 @@
           <mxGeometry x="142" y="435" width="64" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-8" value="电网调度指令/电价信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="352" y="152" width="60" height="30" as="geometry" />
+          <mxGeometry x="352" y="152" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-9" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152" y="445" width="64" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
