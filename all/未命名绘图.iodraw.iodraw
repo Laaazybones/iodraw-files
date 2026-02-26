@@ -29,16 +29,16 @@
           <mxGeometry x="352" y="152" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-9" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="471" width="45" height="51" as="geometry" />
+          <mxGeometry x="327.5" y="427" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-11" value="充放电功率指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="275" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-12" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="533" width="45" height="51" as="geometry" />
+          <mxGeometry x="408.5" y="430" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-13" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="410" width="45" height="51" as="geometry" />
+          <mxGeometry x="246.5" y="427" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-17" value="下发指令/&lt;div&gt;监测状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466" y="314" width="68" height="30" as="geometry" />
