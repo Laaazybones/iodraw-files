@@ -19,6 +19,11 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-3" value="虚拟电厂聚合器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="205" width="180" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OPFFP_eKOEmLH2BmBSAd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="404" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-4" value="边缘终端层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="180" height="55" as="geometry" />
         </mxCell>
@@ -29,16 +34,16 @@
           <mxGeometry x="352" y="152" width="82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-9" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="427" width="45" height="51" as="geometry" />
+          <mxGeometry x="327.5" y="452" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-11" value="充放电功率指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="275" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-12" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="408.5" y="430" width="45" height="51" as="geometry" />
+          <mxGeometry x="408.5" y="455" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-13" value="充电桩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246.5" y="427" width="45" height="51" as="geometry" />
+          <mxGeometry x="246.5" y="452" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-17" value="下发指令/&lt;div&gt;监测状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="466" y="314" width="68" height="30" as="geometry" />
