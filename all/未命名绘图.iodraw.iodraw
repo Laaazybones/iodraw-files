@@ -42,7 +42,7 @@
           <mxGeometry x="260" y="320" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-5" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="137.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-8" value="电网调度指令/电价信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="352" y="152" width="82" height="30" as="geometry" />
@@ -63,25 +63,25 @@
           <mxGeometry x="352" y="381" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-18" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="192.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-19" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="247.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-20" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="302.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-21" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="359.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-22" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="414.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-23" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="469.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-24" value="车端BMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524.5" y="631" width="38" height="38" as="geometry" />
+          <mxGeometry x="524.5" y="586" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
