@@ -13,6 +13,9 @@
         <mxCell id="OPFFP_eKOEmLH2BmBSAd-3" value="虚拟电厂聚合器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="205" width="180" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="OPFFP_eKOEmLH2BmBSAd-4" value="虚拟电厂聚合器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="215" width="180" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
